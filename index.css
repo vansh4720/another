@@ -1,0 +1,34 @@
+.bruh{
+    background-color: #8C82FC;
+}
+
+.container-fluid{
+    text-align: center;
+    padding-top: 150px;
+}
+
+.main-heading {
+  font-size: 5rem;
+  line-height: 2;
+  background-color: #7EFFDB;
+  color: #212121;
+  font-family: "Montserrat",sans-serif;
+}
+.main-heading:hover{
+  background-color:  #8C82FC;
+  color: #FFDE7D;
+}
+
+.secondary {
+  font-size: 3rem;
+  line-height: 2;
+  color: #14FFEC;
+  font-family: "Montserrat Alternates";
+}
+.secondary:hover{
+ background-color:  #0D7377;
+}
+
+.btn{
+  font-family: "Montserrat";
+}

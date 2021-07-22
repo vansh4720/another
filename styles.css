@@ -1,0 +1,148 @@
+.navbar {
+  padding: 0 0 0.1rem;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.lol {
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  background-color: #EAEAEA;
+  padding: 10rem 10rem 35rem 35rem;
+}
+.big-heading:hover{
+background-color: #FCE38A;
+}
+
+.big-heading {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #0000ff;
+  line-height: 1.5;
+}
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+    padding-top: 100px;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+    top : 850px;
+  }
+
+  #features{
+  padding: 7% 15%;
+  background-color: #00ADB5;
+  position: relative;
+
+}
+
+.feature-title{
+    font-size: 1.5rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:  #FFDE7D;
+}
+
+.feature-box{
+  padding: 5%;
+}
+
+.icon-1{
+  color: #FF5722;
+  margin-bottom: 1rem;
+}
+
+.icon-2{
+  color: #FF5722;
+    margin-bottom: 1rem;
+}
+
+.icon-3{
+  color : #FF5722;
+    margin-bottom: 1rem;
+}
+
+.icon-1:hover{
+    color: #FF2E63;
+}
+
+.icon-1:hover{
+    color: #FF2E63;
+}
+
+.icon-2:hover{
+    color: #FF2E63;
+}
+
+.icon-3:hover{
+    color: #FF2E63;
+}
+
+.para-features{
+  font-size: 1rem;
+}
+
+.ftures{
+  color: #252A34;
+}
+
+.ftures:hover{
+  background-color: #6FE7DD;
+  color: #000000;
+}
+
+
+
+.bruh{
+  width : 50%;
+}
+
+#contact-me{
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+  width: 40%;
+  margin: 40px auto 60px;
+  font-size: 40px;
+  color: #FF2E63;
+}
+h5 , p{
+  
+  color : #000000;
+}
+
+.bottom-container{
+  background-color: #FFDE7D;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+
+.copyright{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 0.95rem;
+    padding: 20px 0;
+    margin-top:20px;
+    color: #00B8A9;
+    text-align: center;
+}
+
+.footer-link{
+margin: 100px 100px;
+}
